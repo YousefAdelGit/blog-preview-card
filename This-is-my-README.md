@@ -23,12 +23,19 @@ Users should be able to:
 
 ### Screenshot
 Desktop Design
-![desktop design](./design/desktop-design.png)
+
+![desktop design](./design/Desktop-design.png)
+
 Desktop Design with hover part one
+
 ![active design](./design/active-states%201.png)
+
 Desktop Design with hover part two
+
 ![active design](./design/active-states%202.png)
+
 Mobile Design
+
 ![mobile design](./design/mobile-design.png)
 
 
