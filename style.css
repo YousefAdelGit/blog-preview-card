@@ -19,9 +19,9 @@ body{
   }
 .container {
     font-family: "Figtree", sans-serif;
-    box-shadow: 0 8px 5px 0 rgba(0,0,0,0.2);
+    box-shadow: 10px 8px 5px 0 rgb(0, 0, 0);
     transition: 0.3s;
-    border-radius: 10px;
+    border-radius: 20px;
     border: 1px solid;
     background-color: rgb(255, 255, 255);
     width: 300px;
@@ -34,6 +34,7 @@ body{
     display: flex;
     justify-content: center;
     margin: 70px;
+    margin-top: 150px;
 
 }
 .svgpic{
