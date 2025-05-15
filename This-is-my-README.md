@@ -24,7 +24,7 @@ Users should be able to:
 ### Screenshot
 Desktop Design
 
-![desktop design](./design/Desktop-design.png)
+![desktop design](./design/desktop-design.png)
 
 Desktop Design with hover part one
 
